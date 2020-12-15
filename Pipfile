@@ -7,6 +7,7 @@ name = "pypi"
 pytest = "*"
 objgraph = "*"
 xdot = "*"
+requests = "*"
 
 [dev-packages]
 prospector = "*"
@@ -14,4 +15,4 @@ yapf = "*"
 mypy = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
